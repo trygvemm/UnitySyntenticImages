@@ -1,0 +1,6 @@
+{
+  "UnityEngine.Perception.GroundTruth.Consumers.PerceptionEndpoint.output_path": {
+    "type": "String",
+    "value": "/Users/tryggis/synteticImage"
+  }
+}

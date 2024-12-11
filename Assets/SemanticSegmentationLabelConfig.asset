@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d0176327854820ab53adc46cbec7c1, type: 3}
+  m_Name: SemanticSegmentationLabelConfig
+  m_EditorClassIdentifier: 
+  m_LabelEntries:
+  - label: racer
+    color: {r: 0, g: 1, b: 0, a: 1}
+  - label: motorboat
+    color: {r: 0, g: 0, b: 1, a: 1}
+  - label: jetski
+    color: {r: 1, g: 0, b: 0, a: 1}
+  - label: Fisherboat
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - label: Red Bouy
+    color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - label: Sailboat
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - label: Rib
+    color: {r: 0.09930444, g: 1, b: 0.24061492, a: 1}
+  - label: windsurfer
+    color: {r: 0.055770755, g: 0.67500925, b: 1, a: 1}
+  - label: kayak
+    color: {r: 0.15713954, g: 0.4388624, b: 1, a: 1}
+  - label: rib
+    color: {r: 0.96422124, g: 0.07798523, b: 1, a: 1}
+  - label: small rib
+    color: {r: 0.10165572, g: 1, b: 0.12974055, a: 1}
+  - label: sailboat2
+    color: {r: 0.6933192, g: 0.3339944, b: 1, a: 1}
+  skyColor: {r: 0, g: 0, b: 0, a: 1}

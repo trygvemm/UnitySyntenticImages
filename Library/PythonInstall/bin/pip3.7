@@ -1,0 +1,7 @@
+#! /bin/sh
+
+curdir=`pwd`
+cd `dirname $0` || exit 1
+scriptdir=`pwd`
+cd "$curdir" || exit 1
+"$scriptdir/python3" -m pip "$@"
