@@ -37,4 +37,8 @@ MonoBehaviour:
     color: {r: 0.10165572, g: 1, b: 0.12974055, a: 1}
   - label: sailboat2
     color: {r: 0.6933192, g: 0.3339944, b: 1, a: 1}
+  - label: Motorboat
+    color: {r: 0.4603815, g: 1, b: 0.34911567, a: 1}
+  - label: Sailboat w/o sail
+    color: {r: 0.937945, g: 1, b: 0.41602182, a: 1}
   skyColor: {r: 0, g: 0, b: 0, a: 1}

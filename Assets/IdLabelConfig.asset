@@ -39,5 +39,7 @@ MonoBehaviour:
     id: 12
   - label: sailboat2
     id: 13
+  - label: Sailboat w/o sail
+    id: 14
   autoAssignIds: 1
   startingLabelId: 1
